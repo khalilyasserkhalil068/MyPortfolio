@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Khalil Yasser",
   title: "Data Analyst | Python | SQL | Data Science",
   description: "Data Analyst and Data Science enthusiast with hands-on experience in Python, SQL, data analysis, data cleaning, data visualization, web scraping, and practical machine learning projects.",
-  email: "khalilyasserkhali068@gmail.com",
+  email: "khalilyasserkhalil068@gmail.com",
   phone: "201090412515",
   location: "Assiut, Egypt",
   github: "https://github.com/khalilyasserkhalil068",

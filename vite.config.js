@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // ⚠️  GitHub Pages: change '/portfolio/' below to match your exact repository name.
 //     Example: repo URL  https://github.com/username/my-portfolio → '/my-portfolio/'
 //     For a username.github.io repo (root site) → '/'
-const repoName = '/portfolio/'
+const repoName = '/MyPortfolio/'
 
 // https://vite.dev/config/
 export default defineConfig({
